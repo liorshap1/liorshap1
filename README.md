@@ -1,9 +1,13 @@
-Hello, I’m Lior. 
-I contribute to a variety of different stuff, including websites, tools and Roblox games!
-You can chat with me via Linkdin!
+## 👋 Hello, I’m Lior
 
-Fullstack developer
+I'm a passionate **Fullstack Developer** who loves building **websites**, **tools**, and **Roblox games**.  
+I enjoy turning ideas into real, functional experiences — whether it's in the browser or a game world.
 
-__
-[Portfolio](https://liorshap.vercel.app/)
-[LinkdIn](www.linkedin.com/in/lior-shaposhnikov)
+---
+My portfolio and linkdIn:
+- [LinkedIn](https://www.linkedin.com/in/lior-shaposhnikov)
+- [Portfolio Website](https://liorshap.vercel.app/)
+
+---
+
+Feel free to reach out
