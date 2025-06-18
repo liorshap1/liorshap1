@@ -1,5 +1,9 @@
 Hello, I’m Lior. 
 I contribute to a variety of different stuff, including websites, tools and Roblox games!
-Contributed to Nevermore, horse-calculator and much more interesting things.
+You can chat with me via Linkdin!
 
-I’m self-taught programmer with passion to learn new things every day. The best way to learn something is to create something. My habit is to help more developers to achieve their goals.
+Fullstack developer
+
+__
+[Portfolio](https://liorshap.vercel.app/)
+[LinkdIn](www.linkedin.com/in/lior-shaposhnikov)
