@@ -1,6 +1,6 @@
 ## 👋 Hello, I’m Lior
 
-I'm a passionate **Fullstack Developer** who loves building **websites**, **tools**, and **Roblox games**.  
+I'm a passionate **Fullstack Developer** who loves building **websites** and **tools**.  
 I enjoy turning ideas into real, functional experiences — whether it's in the browser or a game world.
 
 ---
